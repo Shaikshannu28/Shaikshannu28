@@ -54,7 +54,7 @@
 ### 📫 Connect With Me
 - 🔗 LinkedIn: https://www.linkedin.com/in/shaik-shannu-9315a230b
 - 💻 GitHub: https://github.com/Shaikshannu28
-- 📧 Email: *(add your professional email here)*
+- 📧 Email:  shaikshannu150@gmail.com
 
 ---
 
