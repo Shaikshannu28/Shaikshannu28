@@ -5,22 +5,27 @@
   Hi, I'm <strong>Shaik Shannu</strong>
 </h1>
 
-<h3>🚀 Aspiring Developer | Learning MERN Stack</h3>
+<h3>🚀 Python Full Stack Developer | AI Systems Builder | Backend Enthusiast</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm an enthusiastic developer on a journey to master full-stack development. 
-    Currently diving deep into the MERN stack while building cool projects along the way. 
-    I believe in learning by building and sharing knowledge with the community.
+    I'm a passionate Python Full Stack Developer focused on building 
+    real-world, scalable, and AI-powered web applications.
+    <br/><br/>
+    I specialize in Flask-based backend systems, AI integrations, 
+    IoT-connected platforms, and database-driven applications.
+    <br/><br/>
+    I believe in solving real problems through technology and continuously 
+    improving my system design, backend architecture, and problem-solving skills.
   </p>
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/📧_your-email@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🌱_Currently_Learning_MERN-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🎯_Goal_Open_Source-1e1e2e?style=for-the-badge" />
+    <a href="mailto:shaikshannu28@gmail.com"><img src="https://img.shields.io/badge/📧_shaikshannu28@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/badge/⚙️_Flask_Backend_Development-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🎯_Goal_Software_Engineer-1e1e2e?style=for-the-badge" />
   </p>
 
 <h3>🌐 Socials</h3>
@@ -34,16 +39,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://twitter.com/your-twitter-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-
-  <a href="https://instagram.com/your-instagram">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-  <a href="https://dev.to/your-devto">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -52,34 +49,38 @@
 
 <br clear="all" />
 
+---
+
 ## 🛠️ Tech Stack
 <p align="center">
 <table>
 <tr>
 <td width="50%" align="center">
 <h3>💻 Languages</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,c" />
 </td>
 
 <td width="50%" align="center">
 <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=flask,django,react,nodejs,bootstrap" />
 </td>
 </tr>
 
 <tr>
 <td width="50%" align="center">
 <h3>🗄️ Databases</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 </td>
 
 <td width="50%" align="center">
 <h3>🧰 Tools</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 </td>
 </tr>
 </table>
 </p>
+
+---
 
 ## 📈 GitHub Analytics
 
@@ -100,27 +101,31 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Project 1</h3>
+<h3 align="center">AI-Driven Student Wellbeing & Guidance System</h3>
 <div align="center">
-  <a href="#" target="_blank"><img src="https://via.placeholder.com/400x200/0d1117/ffffff?text=Project+Demo" width="100%" alt="Project Demo"></a>
   <p>
-    <strong>Description:</strong> A brief description of your project goes here. What it does and what technologies you used.
+    <strong>Description:</strong> An AI-powered platform designed to monitor student wellbeing, 
+    provide academic guidance, generate roadmaps, and enable emergency alerts.
+    Built using Flask backend, database integration, and AI modules.
     <br/><br/>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Repo-1e1e2e?style=for-the-badge&logo=github" /></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Live_Demo-00c7b7?style=for-the-badge" /></a>
+    <a href="https://github.com/Shaikshannu28" target="_blank">
+      <img src="https://img.shields.io/badge/-Repo-1e1e2e?style=for-the-badge&logo=github" />
+    </a>
   </p>
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">Project 2</h3>
+<h3 align="center">Solar Sense – IoT Smart Solar Monitoring</h3>
 <div align="center">
-  <a href="#" target="_blank"><img src="https://via.placeholder.com/400x200/0d1117/ffffff?text=Project+Demo" width="100%" alt="Project Demo"></a>
   <p>
-    <strong>Description:</strong> Another project description. Highlight the main features and tech stack.
+    <strong>Description:</strong> A real-time IoT-based solar monitoring system 
+    integrated with Flask backend and AI chatbot support.
+    Includes emergency system and maintenance tracking.
     <br/><br/>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Repo-1e1e2e?style=for-the-badge&logo=github" /></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Live_Demo-00c7b7?style=for-the-badge" /></a>
+    <a href="https://github.com/Shaikshannu28" target="_blank">
+      <img src="https://img.shields.io/badge/-Repo-1e1e2e?style=for-the-badge&logo=github" />
+    </a>
   </p>
 </div>
 </td>
@@ -129,35 +134,27 @@
 
 ---
 
-## 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Coming Soon: My First Tech Blog]()
-- [Learning MERN: Week 1 Progress]()
-<!-- BLOG-POST-LIST:END -->
+## 📕 Latest Work & Learning
+
+- Building AI-integrated backend systems  
+- Practicing Advanced Data Structures & Algorithms in Python  
+- Improving system design and backend optimization  
+- Working on real-time deployment using Render  
 
 ---
 
 ## 🎯 Current Focus
-- 🔭 Working on: MERN stack projects
-- 🌱 Learning: Advanced React and Node.js
-- 👯 Looking to collaborate on: Open source projects
-- 💬 Ask me about: Web development, learning resources
-- ⚡ Fun fact: I love debugging more than coding! 😄
-
----
-
-## 💖 Support My Journey
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/your-username">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
-  </a>
-</p>
+- 🔭 Working on: AI-based full stack systems  
+- 🌱 Learning: System Design & Advanced DSA  
+- ⚙️ Improving: Backend scalability & API design  
+- 👯 Looking to collaborate on: Flask & AI open-source projects  
+- 💬 Ask me about: Python, Flask, Backend APIs, Database design  
+- ⚡ Fun fact: I enjoy debugging complex backend logic 😄  
 
 ---
 
 <p align="center">
-  <i>Let's connect and build something amazing together!</i>
+  <i>Let's build scalable and impactful systems together 🚀</i>
   <br/>
   <i>⭐️ From <a href="https://github.com/Shaikshannu28">Shaikshannu28</a></i>
 </p>
